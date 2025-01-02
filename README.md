@@ -4,6 +4,13 @@ The Weather Information App is a JavaFX-based desktop application that fetches c
 
 ---
 
+
+<p align="center">
+  <img src="https://github.com/younusFoysal/Weather-App-Java/blob/main/images/screenshot.png" alt="Weather Information App">
+</p>
+<br>
+
+
 ## Features
 1. **Current Weather Data**:
    - Displays temperature, humidity, wind speed, and weather conditions.
